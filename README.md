@@ -1,3 +1,4 @@
 # hello-world
-hello world sample
-Added new lines. 
+hell world sample
+. 
+third line added and second line deleted, first line modified.
